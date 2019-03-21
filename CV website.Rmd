@@ -1,0 +1,301 @@
+---
+title: "Ouafaa Hmaddi's Curriculum Vitae"
+author: Ouafaa Hmaddi
+date: "Mar. 21, 2019"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Ouafaa Hmaddi](https://avatars.githubusercontent.com/ohmaddi){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> ohmaddi@uoregon.edu
+- <i class="fa fa-github"></i> [github.com/ohmaddi](https://github.com/ohmaddi)
+- <i class="fa fa-phone"></i> +1 607-379-7705
+- For more information, please contact me via email.
+
+
+Computing Skills {#skills}
+--------------------------------------------------------------------------------
+
+- **Expertise**: R/RStudio, Shiny, Markdown, Git/Github, HTML/CSS
+
+- **Familiarity**: Python, SQL, ArcGIS, C/C++, SAS, SPSS
+
+
+Main
+================================================================================
+
+Ouafaa Hmaddi, Ph.D. Candidate {#title}
+--------------------------------------------------------------------------------
+
+### Research Interests 
+
+Technology and Innovation Management, Entrepreneurship, Distributed Trust.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Oregon
+
+Ph.D. Student, Strategy and Management
+
+Eugene, Oregon
+
+Present - Sep. 2017
+
+Advisor: Lauren Lanahan
+
+### Cornell University
+
+MPA with honors *Pi Alpha Alpha*, Environmental and Technology Policy
+
+Ithaca, NY
+
+Aug. 2015 - June. 2017
+
+Thesis: Assessing the Quality of Disclosure on Material Topics in Mandatory and Voluntary Reports
+Advisor: Glen W. Dowell
+
+Certificate in Environmental Finance and Impact Investing
+Sustainable Global Enterprise Immersion Program
+
+### École Mohammadia d'Ingenieurs
+
+Bachelor of Science, Industrial Engineering
+
+Rabat, Morocco
+
+Sep 2010 - Aug. 2013
+
+### Classes Préparatoires aux Grandes Écoles
+
+Mathematics and Physics
+
+Rabat, Morocco
+
+Sep 2008 - Jun. 2010
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### EDF Climate Corps Fellow
+
+Environmental Defense Fund, Project: NYC Open Data Policy 
+
+New York, NY 
+
+May 2016 - Aug. 2016
+
+
+### Graduate Research Assistant
+
+Ithaca Start-Up Works, Cornell University  
+
+Ithaca, NY
+
+Feb. 2016 - May 2017
+
+::: concise
+- Draft Task Work Orders to support a clean energy start-up business competition 
+- Research current entrepreneurial climate in the region 
+- Collect and analyze data about New York's Southern Tier economic performance
+::: 
+
+### Environmental Finance and Impact Investing Fellow 
+
+Walton Family Foundation
+
+Feb. 2017 - May 2017
+
+
+### Enterprise Risk Services Consultant 
+
+Deloitte
+
+Casablanca, Morocoo
+
+Sep. 2013 - Jul. 2015
+
+- Analyzed clients' business processes, compliance with various regulations, risks factors and the controls in place to mitigate risks
+- Established risk management systems (testing programs, risk mapping, internal control records)
+- Performed internal audit of risk management systems, discussed the findings with clients and made recommendations
+- Steered the implementation of recommendations and measured the business performance improvements
+
+### Enterprise Risk Services Intern 
+
+Deloitte
+
+Casablanca, Morocoo
+
+Apr. 2016 - Aug. 2015
+
+- Developed and implemented a holistic approach to establish an internal control system based on Moroccan regulations and international standards 
+- Developed a computer application to automate the internal control system (VBA code application)
+
+
+### Process Engineer Intern 
+
+Fruit of the Loom
+
+Temara, Morocco
+
+Jun. 2012 - Aug 2012
+
+I worked within the process engineering department, at a storage area to study the current risk register then implement a solution to treat risks of the Over Flow storage, and a set of standards in the zone.
+
+
+### Quality Engineer Intern
+
+Safran Electrical & Power
+
+Temara, Morocco
+
+Feb 2012 - Jun. 2012
+
+Designed a mechanical solution to eliminate the cost of non-quality in line Airbus A330.
+
+
+### Maintenance Engineer Intern
+
+Renaulit-Nissan
+
+Casablanca, Morocco
+
+Jun. 2011 - Aug. 2011
+
+Identified and evaluated ergonomic risks of the Dacia production line. 
+
+### Team Advisor- Volunteer Work
+
+Enactus
+
+Casablanca, Morocco
+
+Nov. 2011 - Oct. 2013
+
+- Reviewed progress of work on projects. 
+- Reviewed what the team accomplished in the previous period, and the goals for the next one. 
+- Evaluated the team's work, and the projects results.
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Empowered Policy: Evidence of Sustainable, Accessible, and Affordable Energy Resources
+
+[Cornell Policy Review](http://www.cornellpolicyreview.com/author/ouafaa-hmaddi/)
+
+Nov. 2016
+
+**Hmaddi O.**
+
+### Contrubited to: Global Cryptoasset Benchmarking Study, 2nd Edition
+
+[Cambridge Center for Alternative Finance](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2018-12-ccaf-2nd-global-cryptoasset-benchmarking.pdf)
+
+Cambridge Judge Business School
+
+Dec. 2018 
+
+Rauchs M., Blandin A., Klein K., Pieters G., Recanatini M., and Zhang B. 
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### BA 316 Principles of Management and Strategy 
+
+Intensive workshop on the basics of R, data cleaning, and visualization using R and RStudio with application to epidemiological data. Presented at the USDA's National Animal Disease Center.
+
+Eugene, OR
+
+Fall 2018
+
+::: aside
+Instructor's role 4.4/5.0
+:::
+
+### BA 453 Business Strategy and Planning
+
+Eugene, OR
+
+Winter 2019
+
+::: aside
+Teaching Assistant role for 3 sections 
+:::
+
+### BA 453 Business Strategy and Planning
+
+Eugene, OR
+
+Spring 2020
+
+::: aside
+Instructor's role (2 sections)
+:::
+
+
+
+
+Reviewer Service {data-icon=hands-helping}
+--------------------------------------------------------------------------------
+
+### Western Academy of Management Annual Meeting 
+
+2019
+
+### Academy of Management Annual Meeting
+
+TIM and STR divisions
+
+2019
+
+Honors & Awards {data-icon=trophy}
+--------------------------------------------------------------------------------
+
+### Fulbright Scholarship  
+
+U.S. Dept. of State
+
+Ithaca, NY
+
+Aug. 2015 - Jun. 2017
+
+
+### Lundquist College of Business Ph.D. Fellowship  
+
+Dept. of Management
+
+Eugene, OR
+
+Jun. 2018 - Jun. 2022
+
+### Research Grant by the John and Emiko Kageyama Endowment Fund
+
+Lundquist College of Business
+
+Eugene, OR
+
+Summer 2015
+
+
+### First Year Fellowship Award
+
+University of Oregon
+
+Eugene, Oregon
+
+Sep. 2017 - Jun. 2018
+
